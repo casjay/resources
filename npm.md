@@ -13,6 +13,7 @@ sudo npm install -g @vue/cli
 sudo npm install -g gitio-cli  
 sudo npm install -g now-config  
 sudo npm install -g speed-test  
+sudo npm install -g @angular/cli  
 sudo npm install -g auto-install  
   
 ## servers 
