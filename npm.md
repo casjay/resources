@@ -3,7 +3,7 @@
 sudo npm install -g now  
 sudo npm install -g how2  
 sudo npm install -g emoj  
-sudo npm install -g surge
+sudo npm install -g surge  
 sudo npm install -g lessmd  
 sudo npm install -g heroku   
 sudo npm install -g eslint  
