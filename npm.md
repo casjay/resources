@@ -12,6 +12,7 @@ sudo npm install -g prettier
 sudo npm install -g @vue/cli  
 sudo npm install -g gitio-cli  
 sudo npm install -g now-config  
+sudo npm i readme-md-generator  
 sudo npm install -g speed-test  
 sudo npm install -g @angular/cli  
 sudo npm install -g auto-install  
@@ -23,5 +24,5 @@ sudo npm install -g ghost-cli
 #### Install
 
 ```bash
-sudo bash -c "$(curl -LsS https://github.com/casjay/resources/raw/master/scripts/npm.sh)"
+sudo bash -c "$(curl -LsS https://github.com/casjay/resources/raw/master/npm.md)"
 ```
